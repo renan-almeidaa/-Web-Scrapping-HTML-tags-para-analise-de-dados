@@ -1,4 +1,4 @@
-# Web Scrapping por tags HTML para análise de dados
+# Web Scrapping por tags HTML para análise de dados com as bibliotecas BeautifullSoup e Requests
 Extração de 307 sequências de DNA com prática de Web Scrapping em tags HTML.
 
 
