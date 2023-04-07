@@ -26,8 +26,8 @@ This project was developed using the following technologies:
 
 - [Beautiful Soup](https://pypi.org/project/beautifulsoup4/)
 - [Requests](https://pypi.org/project/requests/)
+- [Pandas](https://pandas.pydata.org)
 - [Jupyter Notebook](https://jupyter.org)
-
 
 ## Mais informações
 
