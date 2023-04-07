@@ -1,4 +1,4 @@
-# Extraindo 307 sequências de DNA da de páginas HTML com Web Scrapping com as bibliotecas BeautifullSoup e Requests
+# Extraindo 307 sequências de DNA de páginas HTML com Web Scrapping com as bibliotecas BeautifullSoup e Requests
 Extração de 307 sequências de DNA com prática de Web Scrapping em tags HTML.
 
 
