@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 - [Pandas](https://pandas.pydata.org)
 - [Jupyter Notebook](https://jupyter.org)
 
-## Mais informações
+## 📎 Mais informações
 
 - Para mais detalhes sobre esse projeto, acesse o meu artigo no medium -> [bit.ly/3GqGvM5](http://bit.ly/3GqGvM5)
 
